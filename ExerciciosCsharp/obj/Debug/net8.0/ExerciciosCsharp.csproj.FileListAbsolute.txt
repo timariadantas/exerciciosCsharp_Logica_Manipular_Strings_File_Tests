@@ -1,0 +1,14 @@
+/home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/bin/Debug/net8.0/ExerciciosCsharp
+/home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/bin/Debug/net8.0/ExerciciosCsharp.deps.json
+/home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/bin/Debug/net8.0/ExerciciosCsharp.runtimeconfig.json
+/home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/bin/Debug/net8.0/ExerciciosCsharp.dll
+/home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/bin/Debug/net8.0/ExerciciosCsharp.pdb
+/home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.AssemblyInfoInputs.cache
+/home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.AssemblyInfo.cs
+/home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.csproj.CoreCompileInputs.cache
+/home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.dll
+/home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/obj/Debug/net8.0/refint/ExerciciosCsharp.dll
+/home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.pdb
+/home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.genruntimeconfig.cache
+/home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/obj/Debug/net8.0/ref/ExerciciosCsharp.dll
