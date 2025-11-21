@@ -25,4 +25,9 @@ public class Exercicio2Test
     {
         Assert.Throws<DivideByZeroException>(()=> Exercicio2.Calculadora(10,0,"/"));
     }
+     [Fact]
+        public void Deve_Lancar_Erro_Quando_Operacao_Invalida()
+        {
+            Assert.Throws<ArgumentException>(() => Exercicio2.Calculadora(10,5, "x"));
+        }
 }

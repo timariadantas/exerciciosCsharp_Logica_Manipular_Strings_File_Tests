@@ -12,3 +12,4 @@
 /home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.pdb
 /home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.genruntimeconfig.cache
 /home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/obj/Debug/net8.0/ref/ExerciciosCsharp.dll
+/home/mariadantas/Exercicios_Csharp_november/ExerciciosCsharp/obj/Debug/net8.0/ExerciciosCsharp.sourcelink.json
