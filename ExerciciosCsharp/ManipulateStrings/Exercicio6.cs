@@ -12,7 +12,7 @@ namespace ExerciciosCsharp.ManipulateStrings
     public static string InverterString(string? texto, bool trim = false, bool ignoreInnerSpaces = false, int maxLength = 1_000 )
         {
             if (string.IsNullOrEmpty(texto))
-            throw new ArgumentException(" A string não pode ser vazia ou nulo.");
+            throw new ArgumentException(" A string não pode ser vazia ou nulo!");
 
             if (trim)
             texto = texto.Trim();
